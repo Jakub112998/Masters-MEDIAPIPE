@@ -1,9 +1,15 @@
 # Masters-app
 This repository contains all the code created in the process of performing analysis on human-object relation. 
 
+status: coding is written, paper is comming soon.
+
 Data used:
 - ntu120
 - our own film dataset
+
+Tools:
+- 2x zed-sk for data recording
+- PC with 64GB RAM used for processing
 
 A research paper is being written based on this thesis and will be available soon.
 
