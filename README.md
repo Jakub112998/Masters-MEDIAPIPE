@@ -8,7 +8,7 @@ Data used:
 - our own film dataset
 
 Tools:
-- 2x zed cameras for data recording
+- 2x zed cameras for recording (stereo-view)
 - PC with 64GB RAM used for processing
 
 A research paper is being written based on this thesis and will be available soon.
