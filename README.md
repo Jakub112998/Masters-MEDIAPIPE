@@ -1,7 +1,8 @@
 # Masters-app
 This repository contains all code neccessary to perform analysis on human-object relation. 
+
 Data used:
-- ntu60
+- ntu120
 - our own film dataset
 
 # Single person joint position
@@ -12,11 +13,11 @@ Using zed-sdk camera software for multi-person detection. The problem is that th
 
 # Denoising multi-person joint positions
 Run files written for this part:
-- seq_transformation.py
-- get_raw_skes_data.py
-- get_raw_denoised_data.py
-- statistics/gen_available_skes_name.py
-- statistics/gen_setup_index.py
+- ntu120/seq_transformation.py
+- ntu120/get_raw_skes_data.py
+- ntu120/get_raw_denoised_data.py
+- ntu120/statistics/gen_available_skes_name.py
+- ntu120/statistics/gen_setup_index.py
 
 # Object detection
 Using labelImg + ImageAI - result is a bounding box with pixel coordinates of the box corners.
