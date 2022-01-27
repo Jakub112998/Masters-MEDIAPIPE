@@ -1,7 +1,7 @@
 # Masters-app
 This repository contains all the code created in the process of performing analysis on human-object relation. 
 
-status: coding is written, paper is comming soon.
+status: coding is written, paper is coming soon.
 
 Data used:
 - ntu120
