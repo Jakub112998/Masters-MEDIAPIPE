@@ -8,7 +8,7 @@ Data used:
 - our own film dataset
 
 Tools:
-- 2x zed-sk for data recording
+- 2x zed cameras for data recording
 - PC with 64GB RAM used for processing
 
 A research paper is being written based on this thesis and will be available soon.
@@ -32,6 +32,9 @@ Using labelImg + ImageAI - result is a bounding box with pixel coordinates of th
 
 # Object position in 3D coordinates based on bounding box position
 Solved
+
+# Joint visualization:
+Mokka software - in progress of converting csv to c3d files.
 
 # Neural Network
 Competitive NN - Solved
