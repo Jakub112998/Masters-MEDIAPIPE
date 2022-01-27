@@ -1,5 +1,5 @@
 # Masters-app
-This repository contains all code neccessary to perform analysis on human-object relation. 
+This repository contains all the code created in the process of performing analysis on human-object relation. 
 
 Data used:
 - ntu120
