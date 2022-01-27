@@ -5,6 +5,8 @@ Data used:
 - ntu120
 - our own film dataset
 
+A research paper is being written based on this thesis and will be available soon.
+
 # Single person joint position
 Using the code from this repository. Software using mediapipe is not suitable for joint position detection when there are several people in the camera view.
 
