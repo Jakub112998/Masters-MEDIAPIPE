@@ -34,7 +34,7 @@ Using labelImg + ImageAI - result is a bounding box with pixel coordinates of th
 Solved
 
 # Joint visualization:
-Mokka software - in progress of converting csv to c3d files.
+In process of converting csv to c3d files.
 
 # Neural Network
 Competitive NN - Solved
